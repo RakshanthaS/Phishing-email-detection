@@ -4,7 +4,11 @@ details.
 Steps 
 
 Dataset Preparation
+
 Message ID extraction
+
 Preprocessing
+
 Finding n-gram frequency
+
 Classification
