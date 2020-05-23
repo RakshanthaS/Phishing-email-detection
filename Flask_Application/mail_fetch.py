@@ -7,7 +7,7 @@ import pandas
 from integration import *
 
 user = 'rakshantha17@gmail.com'
-password = 'raksha123*'
+password = 'password'
 imap_url = 'imap.gmail.com'
 con = imaplib.IMAP4_SSL(imap_url)  
   
